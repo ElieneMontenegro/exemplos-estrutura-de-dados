@@ -1,6 +1,6 @@
 //no js não dá para implementar pilhas de forma nativa
-//podemos usar a ideia de pilha com um vetor mesmo, veja:
 
+//podemos usar a ideia de pilha com um vetor mesmo, veja:
 const pilha = [];
 
 //adicionando novos elementos ao topo

@@ -18,9 +18,9 @@ int main() {
 
 
     //removendo e visualizando os elementos do topo 
-    //enquanto a pilha não está vazia
+    //enquanto a pilha não está vazia (.empty é método da própria biblioteca de queue)
     while(!pilha.empty()) {
-        //visualiza o topo
+        //visualiza o topo (.top é método da própria biblioteca de queue)
         cout << pilha.top() << endl;
         //remove do topo
         pilha.pop();
